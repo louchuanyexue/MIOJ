@@ -2,3 +2,6 @@
 *.out
 12/*.exe
 12/*.out
+*.xml
+*.iml
+/.idea/
